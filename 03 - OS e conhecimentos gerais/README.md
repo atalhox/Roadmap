@@ -1,3 +1,3 @@
-# README.md padrão
+# Conhecimentos gerais sobre Sistemas operacionais
 
-Acrescentar descrição aqui. 
+Foco: Distribuições linux
